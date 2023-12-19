@@ -5,7 +5,7 @@
   * @brief          : Main program body
   ******************************************************************************
   * @attention
-  * 
+  * 깃허브 업로드 테스트용
   * Copyright (c) 2023 STMicroelectronics.
   * All rights reserved.
   *
